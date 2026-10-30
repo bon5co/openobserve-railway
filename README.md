@@ -1,5 +1,9 @@
 # openobserve-railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/openobserve-or-just-updated-datadog-alte?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
+**Deploy on Railway:** [OpenObserve template](https://railway.com/deploy/openobserve-or-just-updated-datadog-alte?referralCode=Z1xivh&utm_medium=integration&utm_source=template&utm_campaign=generic)
+
 Wrapper image for deploying [OpenObserve](https://github.com/openobserve/openobserve)
 (logs, metrics and traces in one place) on Railway.
 
